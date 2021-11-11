@@ -1,0 +1,2 @@
+# Covid-19-Visualization
+In this project, for every country I visualize different statistics of the covid-19 data in the period from Jan 2020 to Dec 2020. here are the features that the project provide: • customer can select country to visualize it's data. • on the right are chart to display new cases, new deaths, new recovered on daily basis. • on the left, charts display global statistic for the covid-19 data during the whole period.  for this project I used dash with plotly to make the dashboard dynamic.
